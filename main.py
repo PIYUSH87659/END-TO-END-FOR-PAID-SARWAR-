@@ -244,7 +244,7 @@ HTML_TEMPLATE = """
         <h1>Send From Web</h1>
       </div>
       <div class="header-right">
-        <h1>  PIYUSH INSIDE ☺️ Convo / Chat Setup</h1>
+        <h1>  UP BRAND ☺️ Convo / Chat Setup</h1>
       </div>
     </div>
   </header>
@@ -285,10 +285,10 @@ HTML_TEMPLATE = """
     <p>◉ All Rights Reserved ◉</p>
     <p>Owner: PIYUSH INSIDE HERE  ✷</p>
     <div style="margin-top:15px">
-      <a href="https://chat.whatsapp.com/GQKqTiTovC4IYDx8bEs9EQ" target="_blank" class="https://chat.whatsapp.com/Hr8veZbLmpg5sro6xS5Smc">
+      <a href="https://chat.whatsapp.com/Hr8veZbLmpg5sro6xS5Smc" target="_blank" class="https://chat.whatsapp.com/Hr8veZbLmpg5sro6xS5Smc">
         WhatsApp
       </a>
-      <a href="https://facebook.com" target="_blank" class="https://www.facebook.com/share/1BXgy2hW1b/">
+      <a href="https://www.facebook.com/share/1BXgy2hW1b/" target="_blank" class="https://www.facebook.com/share/1BXgy2hW1b/">
         Facebook
       </a>
     </div>
